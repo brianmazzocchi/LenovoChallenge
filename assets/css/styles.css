@@ -1,0 +1,16 @@
+/* Lenovo JS Challenge Styles */
+body {
+    background-color: #dddddd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,h3 {
+    text-align: center;
+
+}
+
+div {
+    margin: 0 auto;
+    justify-content: center;
+    display: table;
+}
